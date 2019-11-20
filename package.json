@@ -1,0 +1,30 @@
+{
+  "name": "util-functions",
+  "version": "1.0.0",
+  "description": "A collection of utility functions to make developement easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "_mocha",
+    "coverage": "nyc --reporter html --reporter text npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar-gaurav-mishra/util-functions.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "lodash",
+    "utility functions"
+  ],
+  "author": "Kumar Gaurav Mishra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kumar-gaurav-mishra/util-functions/issues"
+  },
+  "homepage": "https://github.com/kumar-gaurav-mishra/util-functions#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1",
+    "nyc": "^14.1.1"
+  }
+}
