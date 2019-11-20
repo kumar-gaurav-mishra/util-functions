@@ -1,12 +1,12 @@
-# Graph
+# util-functions
 
-Graph implementation in JavaScript
+A collection of utility functions to make developement easy
 
 ### Installation & Usage :
 
 ```Installation
 
-npm install js-graph-ds
+
 
 ```
 
